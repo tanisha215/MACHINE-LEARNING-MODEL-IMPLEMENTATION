@@ -65,3 +65,4 @@ ml-project/ ├── data/ │   └── dataset.csv ├── notebooks/ │
  -jupyter notebook notebooks/model_training.ipynb
 
  ## OUTPUT
+![Image](https://github.com/user-attachments/assets/9863590a-c8b0-40e3-ba9f-3ee99bb33e02)
